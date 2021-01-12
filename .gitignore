@@ -7,3 +7,4 @@ config/
 profiles/
 certs/*
 *.swp
+.DS_Store
